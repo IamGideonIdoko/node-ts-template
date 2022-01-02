@@ -1,0 +1,7 @@
+Rule 1: Separate service class (implemented as a command) for each endpoint
+
+Rule 2: Never return object directly
+
+Rule 3: There is no excuse for not using Promises or await/async today
+
+Rule 4: 
