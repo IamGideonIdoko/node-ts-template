@@ -4,4 +4,6 @@ Rule 2: Never return object directly
 
 Rule 3: There is no excuse for not using Promises or await/async today
 
-Rule 4: 
+Rule 4: Unified approach to validation
+
+Rule 5: Be aware of "Anemic domain model" antipattern
